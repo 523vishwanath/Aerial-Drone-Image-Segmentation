@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛰️ Drone Image Semantic Segmentation — DeepLabV3 + Dice/CE Loss
+# 🛰️ Aerial Drone Image Segmentation — DeepLabV3 + Dice/CE Loss
 
 ### 12-Class Aerial Scene Segmentation · PyTorch · Kaggle Competition
 
@@ -14,10 +14,8 @@
 
 ---
 
-> **Results preview** — drop your generated comparison images here
-> (see [Generating the README images](#generating-the-readme-images)).
+> ## Results Preview
 >
-> ```html
 > <p align="center">
 >   <img src="assets/predictions/valid_sample_0.png" width="100%" />
 > </p>
@@ -25,7 +23,6 @@
 >   <img src="assets/predictions/valid_sample_1.png" width="100%" />
 > </p>
 > <p align="center"><i>Original image · Ground-truth mask · Predicted mask · Predicted overlay</i></p>
-> ```
 
 ---
 
@@ -342,7 +339,6 @@ per-class IoU at that epoch.
 
 ### Qualitative Results
 
-<!-- Generate these with scripts/visualize_predictions.py — see below -->
 
 <p align="center">
   <img src="assets/predictions/valid_sample_0.png" width="100%" />
