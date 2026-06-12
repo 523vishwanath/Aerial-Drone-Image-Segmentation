@@ -17,10 +17,10 @@
 > ## Results Preview
 >
 > <p align="center">
->   <img src="assets/predictions/valid_sample_0.png" width="100%" />
+>   <img src="drone_seg_project/assets/predictions/valid_sample_0.png" width="100%" />
 > </p>
 > <p align="center">
->   <img src="assets/predictions/valid_sample_1.png" width="100%" />
+>   <img src="drone_seg_project/assets/predictions/valid_sample_1.png" width="100%" />
 > </p>
 > <p align="center"><i>Original image · Ground-truth mask · Predicted mask · Predicted overlay</i></p>
 
@@ -341,13 +341,13 @@ per-class IoU at that epoch.
 
 
 <p align="center">
-  <img src="assets/predictions/valid_sample_0.png" width="100%" />
+  <img src="drone_seg_project/assets/predictions/valid_sample_0.png" width="100%" />
 </p>
 <p align="center">
-  <img src="assets/predictions/valid_sample_1.png" width="100%" />
+  <img src="drone_seg_project/assets/predictions/valid_sample_1.png" width="100%" />
 </p>
 <p align="center">
-  <img src="assets/predictions/valid_sample_2.png" width="100%" />
+  <img src="drone_seg_project/assets/predictions/valid_sample_2.png" width="100%" />
 </p>
 
 <p align="center"><i>Left to right: original image, ground-truth mask, predicted mask, predicted overlay</i></p>
@@ -355,10 +355,13 @@ per-class IoU at that epoch.
 ### Test Set Predictions (no ground truth available)
 
 <p align="center">
-  <img src="assets/predictions/test_sample_0.png" width="100%" />
+  <img src="drone_seg_project/assets/predictions/test_sample_0.png" width="100%" />
 </p>
 <p align="center">
-  <img src="assets/predictions/test_sample_1.png" width="100%" />
+  <img src="drone_seg_project/assets/predictions/test_sample_1.png" width="100%" />
+</p>
+<p align="center">
+  <img src="drone_seg_project/assets/predictions/test_sample_2.png" width="100%" />
 </p>
 
 <p align="center"><i>Left to right: original image, predicted mask, predicted overlay</i></p>
