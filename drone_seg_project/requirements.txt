@@ -1,0 +1,12 @@
+torch
+torchvision
+albumentations
+opencv-python
+numpy
+pandas
+scikit-learn
+torchmetrics
+torchinfo
+matplotlib
+tqdm
+livelossplot
